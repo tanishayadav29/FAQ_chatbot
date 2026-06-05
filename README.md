@@ -1,4 +1,4 @@
-# 🤖 CodeAlpha FAQ Chatbot
+# 🤖 FAQ Chatbot
 
 A simple AI-inspired FAQ Chatbot built using Python and Streamlit.  
 This chatbot answers user questions by matching them with the most relevant FAQ using NLP techniques.
@@ -41,7 +41,7 @@ Build a chatbot that:
 ## 📂 Project Structure
 
 ```plaintext
-CodeAlpha_FAQ_chatbot/
+FAQ_chatbot/
 │
 ├── app.py
 ├── chatbot.py
@@ -92,13 +92,13 @@ The system:
 Clone repository:
 
 ```bash
-git clone https://github.com/your-username/CodeAlpha_FAQ_chatbot.git
+git clone https://github.com/your-username/FAQ_chatbot.git
 ```
 
 Move into folder:
 
 ```bash
-cd CodeAlpha_FAQ_chatbot
+cd FAQ_chatbot
 ```
 
 Install dependencies:
@@ -136,4 +136,4 @@ Most relevant answer is displayed.
 
 Tanisha Yadav
 
-For CodeAlpha Internship
+
