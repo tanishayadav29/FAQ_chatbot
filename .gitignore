@@ -1,0 +1,23 @@
+# Virtual env
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Streamlit
+.streamlit/
+
+# Model/cache
+.cache/
+models/
+
+# Mac
+.DS_Store
+
+# Ignore local shell history and OS files
+.bash_history
